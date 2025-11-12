@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
-  - [Active Directory Home Lab](https://github.com/jonathanbrits/ActiveDirectoryLab)
+  - [SOC Automation Home Lab](https://github.com/jonathanbrits/URL)
 
 
 <h2>📄 Certifications</h2>
