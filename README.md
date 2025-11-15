@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
-  - [SOC Automation Home Lab](https://github.com/jonathanbrits/URL)
+  - [SOC Automation Home Lab with Wazuh SIEM and Kali Linux](https://github.com/jonathanbrits/SOCHomeLab)
 
 
 <h2>📄 Certifications</h2>
